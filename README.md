@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-**👉 Check out my [Personal Website](https://mayanklad.github.io/me/) to know more about me!**
+**👉 Check out my [Personal Website](https://mayanklad.netlify.app/) to know more about me!**
 - 🌱 I’m currently a student at `Lambton College in Toronto` pursuing `Artificial Intelligence and Machine Learning`
 - 👯 I’m looking to collaborate for `Dev Projects`
 - 🤔 I’m looking for help with `sleep schedule`
